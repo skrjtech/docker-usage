@@ -1,6 +1,6 @@
 # Docker Engine
 ## Docker Engineのインストール
-詳しい解説は[リンク](https://github.com/skrjtech/linux-setup/main/README.md#docker-install)先から
+詳しい解説は[リンク](https://github.com/skrjtech/linux-setup/blob/main/README.md#docker-install)先から
 
 ```
 git clone https://github.com/skrjtech/linux-setup.git
